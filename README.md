@@ -5,7 +5,7 @@ Análisis completo de las elecciones presidenciales de Venezuela 2024, desde la 
 ## 🎯 Objetivo
 
 Demostrar el flujo completo de un proyecto BI:
-- **Extracción**: Datos públicos de macedoniadelnorte.com
+- **Extracción**: Datos públicos de macedoniadelnorte.com (https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V2.csv)
 - **Transformación**: Limpieza, validación y cálculo de KPIs en Python
 - **Visualización**: Dashboard interactivo en Looker Studio
 
