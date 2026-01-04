@@ -4,10 +4,7 @@
 ## Fase 1: Definición
 
 ### Objetivo Inicial
-Crear un análisis electoral desde cero que demuestre:
-1. Capacidad de trabajar con datos públicos
-2. Habilidad en ETL con Python
-3. Experiencia en BI y visualización interactiva
+Crear un análisis electoral desde cero que demuestre los resultados, de fomra clara para cada candidato
 
 ### Datos Utilizados
 - Fuente: macedoniadelnorte.com
@@ -52,31 +49,20 @@ EDMUNDO_GONZALEZ | NICOLAS_MADURO | ... [más candidatos]
 
 ## Fase 4: Visualización
 
-### Selección de Looker Studio
-- Integración Google (data en Sheets)
-- Filtros nativos interactivos
-- Mapas geográficos
-- No requiere servidor
+## Lecciones Aprendidas (que haria diferente)
 
-### Alternativas Consideradas
-- Metabase: ✅ Poderosa, ❌ Requiere servidor
-- Streamlit: ✅ Fácil, ❌ Menos profesional
-- Power BI: ✅ Completa, ❌ Propietaria
-
-## Decisiones Clave
-
-### ¿Por qué Python en lugar de herramientas BI nativas?
+### Utilizar Python, en lugar de herramientas BI nativas
 - Reproducibilidad
 - Control total del proceso
-- Educativo (aprende ETL real)
+- Educativo (aprender ETL real)
 - Abierto y colaborable
 
-### ¿Por qué Looker Studio (no Power BI)?
+### Looker Studio u otra herramienta free (no Power BI)?
 - Acceso público gratis
 - Integración Google nativa
 - No requiere costo de licencia
 
-### ¿Por qué descargar automáticamente?
+### Descargar el Dataset automáticamente
 - Datos siempre frescos
 - Reproducibilidad
 - Fallback a local si hay errores
@@ -88,14 +74,6 @@ EDMUNDO_GONZALEZ | NICOLAS_MADURO | ... [más candidatos]
 3. **Completitud**: Sin columnas críticas vacías
 4. **Lógica**: Porcentajes entre 0-100
 
-## Lecciones Aprendidas
-
-[Será completado después de terminar el notebook]
-
----
-
-**Próximas mejoras**:
-- [ ] Análisis de series temporales (si hay datos históricos)
-- [ ] Modelos predictivos
+**Mejoras detectadas y posible implementacion**:
 - [ ] API REST para consumir datos
 
