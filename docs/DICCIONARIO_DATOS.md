@@ -19,21 +19,3 @@
 | `nm_porcentaje` | float | (NM / votos_validos) * 100 | 28.95 |
 | `diferencia_eg_nm` | int | EG - NM | 469877 |
 | `nivel_agregacion` | str | "centro", "municipio", "estado" | centro |
-
-## KPIs en kpis.json
-
-```json
-{
-  "nacional": {
-    "votos_totales": 10887259,
-    "votos_validos": 10887259,
-    "participacion_porcentaje": 67.5,
-    "eg_votos": 7303482,
-    "eg_porcentaje": 67.08,
-    "nm_votos": 3316135,
-    "nm_porcentaje": 30.46,
-    "diferencia": 3987347
-  },
-  "por_estado": [...],
-  "por_municipio": [...]
-}
