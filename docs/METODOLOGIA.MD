@@ -1,7 +1,5 @@
 
 #### **docs/METODOLOGIA.md**
-```markdown
-# Metodología del Proyecto
 
 ## Fase 1: Definición
 
@@ -21,7 +19,6 @@ Crear un análisis electoral desde cero que demuestre:
 ### Estructura Original del CSV
 COL_ID | NUM. CENTRO | NOMBRE_CENTRO | ESTADO | MUNICIPIO |
 EDMUNDO_GONZALEZ | NICOLAS_MADURO | ... [más candidatos]
-
 
 ### Transformaciones Realizadas
 
