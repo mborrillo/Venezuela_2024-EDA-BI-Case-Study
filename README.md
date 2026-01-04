@@ -80,4 +80,42 @@ Conclusiones y hallazgos
   "por_municipio": [...]
 }
 
+🎨 Dashboard Looker Studio
+Después de ejecutar el notebook, importar data/processed/electoral_data_clean.csv a Looker Studio:
+
+Filtros interactivos por Estado/Municipio
+
+Mapas geográficos
+
+Tarjetas KPI
+
+Comparativas por candidato
+
+📍 [Ver guía de conexión → docs/GUIA_BI.md]
+
+📚 Documentación
+docs/METODOLOGIA.md - Decisiones y transformaciones realizadas
+
+docs/DICCIONARIO_DATOS.md - Descripción de cada columna
+
+docs/GUIA_BI.md - Paso a paso para Looker Studio
+
+🔍 Diferencial vs. Otros Proyectos
+ggangix/resultados-elecciones-venezuela: Enfoque en auditoría de datos (CSVs)
+
+Este proyecto: Enfoque en análisis BI + proceso educativo (EDA + Dashboard)
+
+📝 Notas
+Los datos se descargan automáticamente (si falla, versión local en data/raw/)
+
+El notebook está diseñado para ser reproducible
+
+Todos los pasos están documentados inline
+
+📄 Licencia
+MIT
+
+Autor: Marcos Borrillo
+Fecha: 2024-2025
+
 
