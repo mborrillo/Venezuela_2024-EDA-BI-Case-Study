@@ -57,7 +57,7 @@ EDMUNDO_GONZALEZ | NICOLAS_MADURO | ... [más candidatos]
 - Educativo (aprender ETL real)
 - Abierto y colaborable
 
-### Looker Studio u otra herramienta free (no Power BI)?
+### Looker Studio u otra herramienta free (no Power BI)
 - Acceso público gratis
 - Integración Google nativa
 - No requiere costo de licencia
@@ -75,5 +75,5 @@ EDMUNDO_GONZALEZ | NICOLAS_MADURO | ... [más candidatos]
 4. **Lógica**: Porcentajes entre 0-100
 
 **Mejoras detectadas y posible implementacion**:
-- [ ] API REST para consumir datos
+- API REST para consumir datos
 
