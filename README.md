@@ -19,12 +19,12 @@ Demostrar el flujo completo de un proyecto BI:
 https://app.powerbi.com/view?r=eyJrIjoiMzM3ZmI2OWQtZmIyNS00YTMzLWJkZmMtOTdiZTFkM2M4ODhiIiwidCI6IjEzYmVjZWU1LTRiYjMtNGFhMC04MmM5LTZmZjAzYmJmOTU2ZiIsImMiOjR9
 
 ##Hallazgos:
-- **6 candidatos listados (Edmundo González, Nicolás Maduro, Luis E Martinez, Antonio E Angola, Benjamín Rausseo, Enrique Márquez)
-- **Datos agregados por 3 niveles geográficos: Estados → Municipios → Centros de votación
-- **~10.8 millones de votos válidos y 1,214 actas registradas
-- **Mapa interactivo visualizando distribución por estado
-- **Tablas detalladas con datos de mesas electorales y centros de votación
-- **Indicadores clave (24 estados, 267 municipios, 13,000+ centros)
+- 6 candidatos listados (Edmundo González, Nicolás Maduro, Luis E Martinez, Antonio E Angola, Benjamín Rausseo, Enrique Márquez)
+- Datos agregados por 3 niveles geográficos: Estados → Municipios → Centros de votación
+- 10.8 millones de votos válidos y 1,214 actas registradas
+- Mapa interactivo visualizando distribución por estado
+- Tablas detalladas con datos de mesas electorales y centros de votación
+- Indicadores clave (24 estados, 267 municipios, 13,000+ centros)
 
 ##Caracteristicas:
 Filtros interactivos por Estado/Municipio
